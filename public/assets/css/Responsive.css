@@ -1,0 +1,31 @@
+@media screen and (max-width:500px) {
+    .blogcards{
+        width: 100%;
+    }
+    .blogcardimg{
+        width: 100%;
+    }
+}
+@media screen and (max-width:720px){
+    .loginleft .image{
+        width: 100%;
+    }
+    .emaillogin input button{
+        width: 80%;
+        height: 100%;
+        text-align: center;
+        padding-right: 0px;
+    }
+}
+@media screen and (max-width:320px){
+    .loginleft .image{
+        width: 100%;
+        background-color: 100%;
+    }
+    .emaillogin input button{
+        width: 80%;
+        height: 100%;
+        text-align: center;
+        padding-right: 0px;
+    }
+}
